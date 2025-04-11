@@ -1,0 +1,27 @@
+body {
+    font-family: Arial;
+    background-color: rgb(71, 14, 14);
+    text-align: center;
+    margin-top: 50px;
+}
+
+button {
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    background: rgb(135, 82, 82);
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;          
+    cursor: pointer;          
+    margin: 20px;             
+    width: 200px; 
+}
+
+#resultado {
+    font-size: 24px; 
+    color: white; 
+    padding: 15px;
+    border-radius: 8px;
+    margin: 20px auto;
+    max-width: 500px;
+}
